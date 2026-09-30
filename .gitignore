@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+test_kuber.db
+*.db
+kuber.log
